@@ -3,10 +3,11 @@ I didn't bother with the description. This will be done later, I swear.
 
 **Lab 1.**
 
-Dataset: https://www.kaggle.com/rmisra/news-category-dataset/download <-- extract to the same folder as the notebook.
+Dataset: https://www.kaggle.com/rmisra/news-category-dataset/download
 
 GloVe: https://github.com/allenai/spv2/blob/master/model/glove.6B.100d.txt.gz
 
+Extract the prerequisites into the same folder as the notebook. 
 
 Install the requirements by calling
 ```pip install -r requirements.txt```
