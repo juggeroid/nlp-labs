@@ -16,4 +16,5 @@ It contains lots of redundant packages, it's sufficient to install tensorflow-gp
 
 **Lab 2.**
 Dataset: https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#ner_dataset.csv
+
 Follow the instructions above, except that the updated requirements are named as `requirements_2.txt`.
