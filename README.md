@@ -13,3 +13,7 @@ Install the requirements by calling
 ```pip install -r requirements.txt```
 
 It contains lots of redundant packages, it's sufficient to install tensorflow-gpu, seaborn, numpy, sklearn, nltk, keras, pandas.
+
+**Lab 2.**
+Dataset: https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#ner_dataset.csv
+Follow the instructions above, except that the updated requirements are named as `requirements_2.txt`.
